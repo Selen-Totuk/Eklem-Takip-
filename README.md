@@ -1,4 +1,6 @@
-# 🏃‍♀️ Spor Takip Projem
+# 🏃‍♀️ Spor Takip Projesi
+
+## bu projeyle Bozok Üniversitesinin 5.Proje Etkinliğine katıldım.
 
 Bu proje, bireylerin egzersiz esnasındaki hareketlerini gerçek zamanlı olarak analiz etmek, saymak ve performans verilerini toplamak amacıyla geliştirilmiş bir görüntü işleme uygulamasıdır. Sistem, bir kameradan gelen canlı görüntüleri analiz ederek, kullanıcıların belirli hareketleri doğru yapıp yapmadığını ölçer ve sonuçları kaydeder.
 
